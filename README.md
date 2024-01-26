@@ -6,13 +6,13 @@ The Face Recognition Brain is an innovative and cutting-edge application designe
 
 # Key Features
 
-* **Advanced Face Detection**: The Face Recognition Brain utilizes state-of-the-art face recognition algorithms to analyze images and identify faces with remarkable precision. It can detect multiple faces within a single image and mark their positions for easy identification.
+- **Advanced Face Detection**: The Face Recognition Brain utilizes state-of-the-art face recognition algorithms to analyze images and identify faces with remarkable precision. It can detect multiple faces within a single image and mark their positions for easy identification.
 
-* **URL-Based Image Input**: Instead of uploading images directly, users can provide a URL to the image they want to analyze. This feature offers convenience and flexibility in processing images from various sources, such as social media platforms or cloud storage.
+- **URL-Based Image Input**: Instead of uploading images directly, users can provide a URL to the image they want to analyze. This feature offers convenience and flexibility in processing images from various sources, such as social media platforms or cloud storage.
 
-* **Real-Time Results**: The application processes images swiftly, providing real-time results on face detection. Users receive instant feedback on the presence and location of faces, enhancing the overall user experience.
+- **Real-Time Results**: The application processes images swiftly, providing real-time results on face detection. Users receive instant feedback on the presence and location of faces, enhancing the overall user experience.
 
-* **Intuitive User Interface**: With a user-friendly interface, the Face Recognition Brain makes it easy for individuals of all skill levels to interact with the application effortlessly. The intuitive design ensures seamless navigation and a pleasant user journey.
+- **Intuitive User Interface**: With a user-friendly interface, the Face Recognition Brain makes it easy for individuals of all skill levels to interact with the application effortlessly. The intuitive design ensures seamless navigation and a pleasant user journey.
 
 # How to Use
 
