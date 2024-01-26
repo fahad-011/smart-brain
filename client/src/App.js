@@ -75,7 +75,7 @@ class App extends Component {
     }
 
     this.setState({ imageUrl: input });
-    fetch("http://localhost:8080/imageurl", {
+    fetch("https://zany-pear-mackerel-tam.cyclic.app/imageurl", {
       method: "post",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -91,7 +91,7 @@ class App extends Component {
       })
       .then((response) => {
         if (response) {
-          fetch("http://localhost:8080/image", {
+          fetch("https://zany-pear-mackerel-tam.cyclic.app/image", {
             method: "put",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({

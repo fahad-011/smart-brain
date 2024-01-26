@@ -42,7 +42,7 @@ class Register extends Component {
       toast.error("Password should be at least 6 characters long");
       return;
     }
-    fetch("http://localhost:8080/register", {
+    fetch("https://zany-pear-mackerel-tam.cyclic.app/register", {
       method: "post",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
