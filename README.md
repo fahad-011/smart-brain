@@ -2,7 +2,7 @@
 
 ![](/client/demo.gif)
 
-Welcome to the Face Recognition Brain! This full-stack application utilizes React and Express to implement an intelligent face recognition system. Users can detect faces within images, and their entry count increases every time a face is successfully identified.
+Welcome to the Face Recognition Brain! This `MERN Stack` application utilizes React and Express to implement an intelligent face recognition system. Users can detect faces within images, and their entry count increases every time a face is successfully identified.
 
 ## Description
 
