@@ -10,7 +10,6 @@ const handleSignin = (User, bcrypt) => async (req, res) => {
     const user = await User.findOne({ email });
 
     if (user) {
-      // Compare the password using bcrypt
       const isValid = bcrypt.compareSync(password, user.password);
 
       if (isValid) {
