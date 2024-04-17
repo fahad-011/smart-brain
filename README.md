@@ -64,7 +64,7 @@ Click the "Fork" button at the top right corner of the page. This will create a 
 
 ### Installation (Client)
 
-1. **Clone the Client Repository**
+1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/your-username/smart-brain
